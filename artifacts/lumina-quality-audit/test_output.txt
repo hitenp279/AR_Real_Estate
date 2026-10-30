@@ -1,0 +1,9 @@
+✓ src/test/ThreeViewer.test.tsx (6 tests) 48ms
+✓ src/test/Shell.test.tsx (4 tests) 300ms
+✓ src/test/FloorPlan.test.tsx (11 tests) 367ms
+✓ src/test/Milestone5.test.tsx (9 tests) 436ms
+✓ src/test/Catalog.test.tsx (11 tests) 590ms
+
+ Test Files  5 passed (5)
+      Tests  41 passed (41)
+   Duration  26.24s
