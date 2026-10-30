@@ -40,3 +40,5 @@ find_*.cjs
 list_*.cjs
 check_*.cjs
 compare_*.cjs
+
+node_modules/
